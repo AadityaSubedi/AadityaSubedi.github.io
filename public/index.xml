@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aaditya</title>
+    <link>https://AadityaSubedi.github.io/</link>
+    <description>Recent content on aaditya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Jul 2022 13:33:03 +0545</lastBuildDate><atom:link href="https://AadityaSubedi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://AadityaSubedi.github.io/posts/test/</link>
+      <pubDate>Sat, 09 Jul 2022 13:33:03 +0545</pubDate>
+      
+      <guid>https://AadityaSubedi.github.io/posts/test/</guid>
+      <description>This is a test blog.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://AadityaSubedi.github.io/posts/markdown-syntax/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://AadityaSubedi.github.io/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://AadityaSubedi.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://AadityaSubedi.github.io/about/</guid>
+      <description>Hi, I am Aaditya. I am a computer engineering undergraduate studying at the Institute of Engineering, Pulchowk Campus. I am currently in 7th semester. I worked as part time backend developer at Clamphook. I used Flask, python microframework and MongoDB.
+Currently, I am engaging in the FuseMachine&amp;rsquo;s AI fellowship.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://AadityaSubedi.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AadityaSubedi.github.io/projects/</guid>
+      <description>This is under construction</description>
+    </item>
+    
+  </channel>
+</rss>

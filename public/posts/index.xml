@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on aaditya</title>
+    <link>https://AadityaSubedi.github.io/posts/</link>
+    <description>Recent content in Posts on aaditya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Jul 2022 13:33:03 +0545</lastBuildDate><atom:link href="https://AadityaSubedi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://AadityaSubedi.github.io/posts/test/</link>
+      <pubDate>Sat, 09 Jul 2022 13:33:03 +0545</pubDate>
+      
+      <guid>https://AadityaSubedi.github.io/posts/test/</guid>
+      <description>This is a test blog.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://AadityaSubedi.github.io/posts/markdown-syntax/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://AadityaSubedi.github.io/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
